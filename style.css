@@ -1,0 +1,14 @@
+div.sticky {
+  position: sticky;
+  top: 0;
+  background-color: gray;
+  border: 4px solid black;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.first{
+  color:maroon;
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
